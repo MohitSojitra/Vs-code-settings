@@ -73,7 +73,7 @@
   },
 
   "terminal.integrated.scrollback": 10000,
-  "explorer.openEditors.visible": 0,
+  "explorer.openEditors.visible": 1,
   "editor.lineNumbers": "on",
   "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
