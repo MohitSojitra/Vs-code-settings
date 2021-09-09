@@ -26,7 +26,7 @@
   "editor.hover.enabled": true,
   "editor.renderWhitespace": "boundary",
   "editor.glyphMargin": false,
-  "editor.folding": false,
+  "editor.folding": true,
   "files.exclude": {
     "USE_GITIGNORE": true
   },
