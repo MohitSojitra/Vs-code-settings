@@ -1,0 +1,32 @@
+{
+  "workbench.colorTheme": "GitHub Dark Default",
+  "window.zoomLevel": -1,
+  "editor.formatOnSave": true,
+  "workbench.editor.labelFormat": "short",
+  "diffEditor.wordWrap": "on",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.wordWrap": "on",
+  "editor.fontSize": 24,
+  "editor.letterSpacing": 0.5,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "java.project.importHint": false,
+  "editor.cursorBlinking": "expand",
+  "workbench.iconTheme": "material-icon-theme",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Lazy Student','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontWeight": "normal"
+}
