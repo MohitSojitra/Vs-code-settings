@@ -10,7 +10,7 @@
   "editor.wordBasedSuggestions": false,
   "editor.suggest.localityBonus": true,
   "editor.acceptSuggestionOnCommitCharacter": false,
-  "enitor.acceptSuggestionOnEnter": "off",
+  "enitor.acceptSuggestionOnEnter": "on",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.suggestSelection": "recentlyUsed",
@@ -119,7 +119,7 @@
   "prettier.trailingComma": "all",
   "prettier.arrowParens": "avoid",
   "prettier.useEditorConfig": false,
-  "editor.acceptSuggestionOnEnter": "off",
+  "editor.acceptSuggestionOnEnter": "on",
   "editor.tokenColorCustomizations": {
     "textMateRules": []
   },
