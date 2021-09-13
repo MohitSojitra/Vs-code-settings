@@ -91,7 +91,7 @@
   "gulp.autoDetect": "off",
   "explorer.confirmDragAndDrop": false,
   "atomKeymap.promptV3Features": true,
-  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.multiCursorModifier": "alt",
   "editor.formatOnPaste": false,
   "spellright.language": ["en"],
   "spellright.documentTypes": ["markdown", "plaintext", "mdx"],
