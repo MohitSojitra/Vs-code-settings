@@ -85,7 +85,6 @@
   "debug.javascript.codelens.npmScripts": "never",
   "breadcrumbs.enabled": true,
   "local-history.absolute": true,
-  "local-history.path": "/Users/kentcdodds/.vscode-history",
   "grunt.autoDetect": "off",
   "npm.runSilent": true,
   "gulp.autoDetect": "off",
